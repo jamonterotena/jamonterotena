@@ -4,4 +4,4 @@
 
 🛤️ I enjoy sharing projects related to my research to support the scientific community, as well as sharing code and tips that have been helpful on my self-learning journey.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamonterotena&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamonterotena&theme=tokyonight)

@@ -4,7 +4,7 @@
 
 🛤️ I enjoy sharing projects related to my research to support the scientific community, as well as sharing code and tips that have been helpful on my self-learning journey.
 
-🗺️ Originally from Spain, I have worked as a Science teacher in England driven by my passion for education and I am currently completing my PhD in Germany. I speak Spanish, English and German fluently.
+[🗺️](https://www.google.com/maps/d/u/0/edit?mid=12CGiKDJXOIl6qPWeO5j033FQyP9AkqU&usp=sharing) Originally from Spain, I have worked as a Science teacher in England driven by my passion for education and I am currently completing my PhD in Germany. I speak Spanish, English and German fluently.
 
 [:cat:](https://jamonterotena.github.io/My-resume/) Click on this cat to access **my resume**!
 

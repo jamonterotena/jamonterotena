@@ -6,4 +6,6 @@
 
 🗺️ Originally from Spain, I have worked as a Science teacher in England driven by my passion for education and I am currently completing my PhD in Germany. I speak Spanish, English and German fluently.
 
+[Here is my resume](https://jamonterotena.github.io/My-resume/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamonterotena&hide=html&theme=tokyonight)

@@ -2,7 +2,7 @@
 
 ## About my work
 
-🧬 My research centers on plant **genomics**, specifically analzying lage **multiomic** data sets to unravel the determinants of meiotic **recombination** in *Brassica napus*, a line of work that contributes to the broader goal of enhancing the crop’s genetic diversity.
+🧬 My research centers on plant **genomics**, specifically analzying lage **multiomic** data sets to unravel the determinants of meiotic **recombination** in *Brassica napus* (rapeseed), a line of work that contributes to the broader goal of enhancing the crop’s genetic diversity.
 
 🌱 This interactive Shiny visualization illustrates [*the impact of rapeseed compared with other oil crops*—across country, region, and globally](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/).
 

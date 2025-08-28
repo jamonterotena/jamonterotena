@@ -1,4 +1,4 @@
-🛤️ Welcome to my GitHub profile, where I enjoy sharing my research to help the scientific community, as well as code or tips that have been helpful on my self-learning journey.
+🛤️ Welcome to my GitHub profile, where I share my research to support the scientific community, along with code or tips that have been useful in my self-learning journey.
 
 ## About my work
 

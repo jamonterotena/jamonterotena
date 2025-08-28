@@ -20,7 +20,7 @@ I regularly use **Bash** scripting coding to operate Linux terminals, and I am a
 
 [🗺️](https://www.google.com/maps/d/u/0/edit?mid=12CGiKDJXOIl6qPWeO5j033FQyP9AkqU&usp=sharing) Originally from Spain, I’ve worked as a Science teacher at a senior school in England, driven by my passion for education, and I’m currently completing my PhD in Germany. I speak Spanish, English and German fluently.
 
-[:cat:](https://jamonterotena.github.io/cv/) Click on this cat to access **my resume**!
+[:cat:](https://jamonterotena.github.io/cv/) Click on this cat to access [**my resume**](https://jamonterotena.github.io/cv/)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamonterotena&hide=html&theme=tokyonight)
 

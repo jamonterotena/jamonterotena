@@ -10,7 +10,7 @@
 
 I’m hard-working, curious, and always eager to build new skills to optimize my work and to help my team.
 
-Thanks to my extensive experience with **R**, I developed a tool for [phasing and detected recombination crossovers in multiparental populations](https://github.com/GoliczGenomeLab/haploMAGIC) with high accuracy despite of genotyping errors, that proved to [outperform related software in benchmarking](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607).
+Thanks to my extensive experience with **R**, I developed a tool for [phasing and detecting recombination crossovers in multiparental populations](https://github.com/GoliczGenomeLab/haploMAGIC) with high accuracy despite of genotyping errors, that proved to [outperform related software in benchmarking](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607).
 
 I prepare well-structured **Quarto/RMarkdown** notebooks to document the outcome and code of my pipelines—for example, [this workflow that develops machine learning models to predict recombination in rapeseed and measures the importance of multiomic features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)—and share them with colleagues to support decision-making.
 

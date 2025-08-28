@@ -6,15 +6,15 @@
 
 🌱 This interactive Shiny visualization illustrates [*the impact of rapeseed compared with other oil crops*—across country, region, and globally](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/).
 
-## My skills
+## 💻 My skills
 
-💻 Thanks to my extensive experience with **R**, I developed a tool for [phasing and detected recombination crossovers in multiparental populations highly accurately despite of genotyping errors](https://github.com/GoliczGenomeLab/haploMAGIC), that was proved to [outperform related software in benchmarking](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607).
+Thanks to my extensive experience with **R**, I developed a tool for [phasing and detected recombination crossovers in multiparental populations highly accurately despite of genotyping errors](https://github.com/GoliczGenomeLab/haploMAGIC), that was proved to [outperform related software in benchmarking](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607).
 
-💻 I prepare well-structured Quarto/RMarkdown notebooks to document the outcome and code of my pipelines—for example, [this workflow for analyzing recombination data with machine learning](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)—and share them with colleagues to support decision-making.
+I prepare well-structured Quarto/RMarkdown notebooks to document the outcome and code of my pipelines—for example, [this workflow for analyzing recombination data with machine learning](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)—and share them with colleagues to support decision-making.
 
-💻 I’m hard-working, curious, and always eager to build new skills to optimize my work and to help my team.
+I’m hard-working, curious, and always eager to build new skills to optimize my work and to help my team.
 
-💻 I regularly use Bash scripting coding to operate Linux terminals, and I am also proficient in Python and SQL.
+I regularly use Bash scripting coding to operate Linux terminals, and I am also proficient in Python and SQL.
 
 ## My background
 

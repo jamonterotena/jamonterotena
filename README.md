@@ -14,7 +14,7 @@ Thanks to my extensive experience with **R**, I developed a tool for [phasing an
 
 I prepare well-structured **Quarto/RMarkdown** notebooks to document the outcome and code of my pipelines—for example, [this workflow that develops machine learning models to predict recombination in rapeseed and measures the importance of multiomic features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)—and share them with colleagues to support decision-making.
 
-I regularly use Bash scripting coding to operate Linux terminals, and I am also proficient in Python and SQL.
+I regularly use **Bash** scripting coding to operate Linux terminals, and I am also proficient in **Python** and **SQL**.
 
 ## My background
 
